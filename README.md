@@ -1,2 +1,4 @@
 # myProject
-this to learn git 
+This to learn git 
+<br>
+Readme file uses HTML commands.
